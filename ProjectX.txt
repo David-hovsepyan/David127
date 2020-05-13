@@ -1,0 +1,7 @@
+Samsung	large-scale	urgent
+apple	large-scale	planned
+dell 	large-scale	urgent
+Sony	medium-scale	planned
+nikon 	small-scale	flexible
+HTC 	large-scale	planned
+Nokia	small-scale	urgent
